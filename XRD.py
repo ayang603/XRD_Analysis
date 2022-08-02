@@ -3,6 +3,7 @@
 # Description: Plots XRD data given in .txt file
 #
 # Notes:  Remember REMOVE the "?" line in the beginning of your text file
+
 #
 
 import numpy as np
